@@ -38,6 +38,10 @@ The primary audiences include:
    * [App Builders Philippines](https://www.facebook.com/groups/980298767865372/)
    * [Scraped Data](https://github.com/kathulhur/dep-data-engineering-joseph/tree/main/data/raw)
 
+   Data Format:
+      * `JSON`
+      * Each file contains an array of post and comment objects.
+
    Key Fields:
 
       * Post
@@ -47,6 +51,13 @@ The primary audiences include:
       * Comment
          * commentText
          * commentDate
+
+
+#### Fallback DataSource
+2. [It Philippines](https://www.facebook.com/search/top/?q=ruel%20nopal%20it%20ph)
+
+   * IT Philippines is also a highly active facebook page where people regularly discuss emerging application development practices.
+   
 
 ### Project Objectives
 
