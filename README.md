@@ -78,7 +78,11 @@ The primary audiences include:
 
 ### How to run it
 
-| coming soon
+Via direct script invocation
+
+```
+python ./scripts/ingest.py
+```
 
 
 ### Findings
